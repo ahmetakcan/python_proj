@@ -12,3 +12,4 @@ for i in range(baslangic, sinir):
     i = i + 1 
 
 print(baslangic, "ile", sinir, "arasındaki", disinda, "dışındaki", "sayıların toplamı", x, "'dir." ) 
+
