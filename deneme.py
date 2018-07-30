@@ -13,3 +13,5 @@ for i in range(baslangic, sinir):
 
 print(baslangic, "ile", sinir, "arasındaki", disinda, "dışındaki", "sayıların toplamı", x, "'dir." ) 
 
+
+"""onur adamdır"""
